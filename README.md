@@ -33,7 +33,7 @@ As a first attempt, following questions have been investigated, using data provi
 
 ## Results <a name="Results"></a>
 
-The results of this analysis will be published on Medium.
+The results of this analysis are [published on Medium](https://medium.com/@bytesbysophie/does-the-newspaper-even-matter-anymore-62c080328f35).
 
 ## Licensing, Authors, and Acknowledgements <a name="Licensing-Authors-Acknowledgements"></a>
 
